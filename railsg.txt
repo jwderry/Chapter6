@@ -1,0 +1,1 @@
+rails g scaffold Student name:string secret:string county:string email:string description:text can_send_email:boolean graduation_year:integer body_temperature:float price:decimal birthday:date favorite_time:time
